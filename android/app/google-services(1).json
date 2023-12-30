@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098469861588",
+    "project_id": "whisperchat-bbb9d",
+    "storage_bucket": "whisperchat-bbb9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098469861588:android:c225941a20016d74ab3341",
+        "android_client_info": {
+          "package_name": "com.example.demo_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8UXOcoCn0jp82k39mQUBs-7bWg0PGNOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
